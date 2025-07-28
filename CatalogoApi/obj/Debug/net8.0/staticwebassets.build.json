@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BCFbeUYsG2ZbA8V5CXvcRMVP7/ztimnCopjrvZzGiFU=",
+  "Source": "CatalogoApi",
+  "BasePath": "_content/CatalogoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
